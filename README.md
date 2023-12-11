@@ -2,9 +2,9 @@
 
 ### What you'll do
 
-In this coding challenge you will build a form that generates an array of permissions. These permissions can be used to access the Palisade platform programmatically via our API. Each permission in the array gives the API access to a specific set of features and resources.
+In this coding challenge you will build a form that generates an array of permissions. These permissions can be used to access the Palisade platform programmatically via our API. Each permission in the array gives the API access to specific resources for a specific operation.
 
-A single scoped permission looks like this:
+#### Example: 
 
 `transactions:read:vault:id=123&id=456`
 
