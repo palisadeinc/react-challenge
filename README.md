@@ -1,4 +1,4 @@
-# React ehallenge
+# React challenge
 
 ### What you'll do
 
