@@ -10,6 +10,9 @@ Example:
 
 In this example the permission grants access to READ all TRANSACTIONS in 2 specific vaults referenced by the vault IDs.
 
+<img width="493" alt="Screenshot 2024-01-29 at 11 44 30" src="https://github.com/palisadeinc/react-challenge/assets/99590523/c81efde1-d856-4d80-932c-5d20f33bf198">
+
+
 #### Permission structure
 
 `__permissions_set__:__operation__:__resource___:__resource_scope__`
